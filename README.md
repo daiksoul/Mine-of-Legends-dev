@@ -9,7 +9,7 @@ Necromancer 80%
 Healer 80%
 Fire Wizzard 0%
 Water Wizzard 0%
-Gladiator 0%
+Gladiator 5%
 Guradian 0%
 Paladin 0%
 Hunter 0%
