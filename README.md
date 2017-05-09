@@ -11,11 +11,11 @@ Fire Wizzard 0%
 Water Wizzard 0%
 Gladiator 95%
 Guradian 95%
-Paladin 0%
+Paladin 90%
 Hunter 75%
 Archer 0%
 Assassin 90%
-Ninja 0%
+Ninja 90%
 
 norm minion 100%
 tank minion 88%
